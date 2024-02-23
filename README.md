@@ -1,19 +1,19 @@
 <h1 align="center">Hey Everyone 👋, I'm Shubham Rai</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/shubhamrai11/shubhamrai11/main/banner-3.png"> </div>
+
 <h3 align="center">A passionate DevOps Engineer From India.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamrai11&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamrai11" /> </p>
 
-- 🔭 I’m currently working on [Corporate DevOps Security Tools | DevSecOps](https://www.youtube.com/watch?v=5CbQyB0dcCA&list=PLAdTNzDIZj_8Gotv6qZoyxOiwu0bdhW-E&pp=gAQBiAQB)
+- 🔭 I’m currently working AS A [FREELENCER ](https://www.youtube.com/watch?v=5CbQyB0dcCA&list=PLAdTNzDIZj_8Gotv6qZoyxOiwu0bdhW-E&pp=gAQBiAQB)
 
-- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
+- 🌱 I’m currently learning **REACT JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhamrai11](https://github.com/shubhamrai11)
 
-- 💬 Ask me about **DevOps & Cloud DevOps**
+- 💬 Ask me about **FULL STACK DEV**
 
-- 📫 How to reach me **masteraadi246@gmail.com**
+- 📫 How to reach me **rai638683@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
