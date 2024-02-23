@@ -49,11 +49,21 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamrai11&" alt="shubhamrai11" /></p>
 
 
-![Generate Snake](https://github.com/shubhamrai11/shubhamrai11/blob/output/github-contribution-grid-snake.svg)
-
-
-
-![Generate Snake](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+<h2 align="center">🐍 My Contributions 🐍</h2><h3 align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://tinyurl.com/MeowwMeoww101"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://tinyurl.com/PinkMeowwMeoww"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://tinyurl.com/UUWUU404"
+  />
+</picture>
 
 
 
