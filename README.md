@@ -2,8 +2,6 @@
 
 <h1 align="center">Hey Everyone 👋, I'm Shubham Rai</h1>
 
-
-
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Protest+Riot&weight=500&size=17&duration=5001&pause=1000&color=39F73D&multiline=true&random=false&width=425&height=42&lines=A+passionate+Full+Stack++Developer+From+India." alt="Typing SVG" /></a></h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -80,9 +78,6 @@
 </div>
 
 
-
-
-  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhamrai11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="159" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamrai11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=true&order=2" height="160" alt="languages graph"  />
@@ -105,15 +100,5 @@
   />
 </picture>
 
-
-
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=32&duration=4000&pause=1000&color=F79122&random=false&width=425&height=42&lines=Thank+you+for+coming;Have+a+nice+day" alt="Typing SVG" /></a></h3>
-
-
-
-
-
-
-
-
 
