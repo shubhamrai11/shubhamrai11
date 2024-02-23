@@ -2,12 +2,14 @@
 
 <h1 align="center">Hey Everyone 👋, I'm Shubham Rai</h1>
 
-<h3 align="center">A passionate DevOps Engineer From India.</h3>
+
+
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Protest+Riot&weight=500&size=17&duration=5001&pause=1000&color=39F73D&multiline=true&random=false&width=425&height=42&lines=A+passionate+Full+Stack++Developer+From+India." alt="Typing SVG" /></a></h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamrai11&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamrai11" /> </p>
 
-- 🔭 I’m currently working AS A [FREELENCER ](https://www.youtube.com/watch?v=5CbQyB0dcCA&list=PLAdTNzDIZj_8Gotv6qZoyxOiwu0bdhW-E&pp=gAQBiAQB)
+- 🔭 I’m currently working AS A [FREELENCER ](https://www.y)
 
 - 🌱 I’m currently learning **REACT JS**
 
@@ -71,11 +73,20 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamrai11&show_icons=true&locale=en&layout=compact" alt="shubhamrai11" /></p>
+<h2 align="center">🔥 My Stats 🔥</h2><h3 align="center">
+  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shubhamrai11&locale=en&mode=daily&theme=synthwave&hide_border=true&border_radius=5&order=3" height="276" alt="streak graph"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamrai11&show_icons=true&locale=en" alt="shubhamrai11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamrai11&" alt="shubhamrai11" /></p>
+
+
+  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamrai11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="159" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamrai11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=true&order=2" height="160" alt="languages graph"  />
+</div>
 
 
 <h2 align="center">🐍 My Contributions 🐍</h2><h3 align="center">
@@ -94,6 +105,10 @@
   />
 </picture>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Protest+Riot&weight=500&size=39&duration=4000&pause=1000&color=F79122&random=false&width=425&height=42&lines=Thank+you+for+coming;Have+a+nice+day" alt="Typing SVG" /></a>
+
+
+<h3 align="center"></h3>
 
 
 
