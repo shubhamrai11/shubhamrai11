@@ -45,8 +45,20 @@
 
 ###
 <h2 align="center">🐍 My Contributions 🐍</h2><h3 align="center">
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://tinyurl.com/MeowwMeoww101"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://tinyurl.com/PinkMeowwMeoww"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://tinyurl.com/UUWUU404"
+  />
+</picture>
 
 <h2 align="center">🔥 My Stats 🔥</h2><h3 align="center">
   
