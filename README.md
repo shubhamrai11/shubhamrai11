@@ -41,6 +41,37 @@
   
 </p>
 
+
+
+###
+<h2 align="center">🐍 My Contributions 🐍</h2><h3 align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://tinyurl.com/MeowwMeoww101"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://tinyurl.com/PinkMeowwMeoww"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://tinyurl.com/UUWUU404"
+  />
+</picture>
+
+<h2 align="center">🔥 My Stats 🔥</h2><h3 align="center">
+  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shubhamrai11&locale=en&mode=daily&theme=synthwave&hide_border=true&border_radius=5&order=3" height="276" alt="streak graph"  />
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamrai11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="159" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamrai11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=true&order=2" height="160" alt="languages graph"  />
+</div>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><h3 align="center">
 
  <br clear="both">
@@ -69,36 +100,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="60" alt="nodejs logo"  />
 </div>
 
-###
-
-<h2 align="center">🔥 My Stats 🔥</h2><h3 align="center">
-  
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shubhamrai11&locale=en&mode=daily&theme=synthwave&hide_border=true&border_radius=5&order=3" height="276" alt="streak graph"  />
-</div>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamrai11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="159" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamrai11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=true&order=2" height="160" alt="languages graph"  />
-</div>
-
-
-<h2 align="center">🐍 My Contributions 🐍</h2><h3 align="center">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://tinyurl.com/MeowwMeoww101"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://tinyurl.com/PinkMeowwMeoww"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://tinyurl.com/UUWUU404"
-  />
-</picture>
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=32&duration=4000&pause=1000&color=F79122&random=false&width=425&height=42&lines=Thank+you+for+coming;Have+a+nice+day" alt="Typing SVG" /></a></h3>
 
