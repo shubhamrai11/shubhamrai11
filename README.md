@@ -105,7 +105,6 @@
   />
 </picture>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Protest+Riot&weight=500&size=39&duration=4000&pause=1000&color=F79122&random=false&width=425&height=42&lines=Thank+you+for+coming;Have+a+nice+day" alt="Typing SVG" /></a>
 
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=32&duration=4000&pause=1000&color=F79122&random=false&width=425&height=42&lines=Thank+you+for+coming;Have+a+nice+day" alt="Typing SVG" /></a></h3>
