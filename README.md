@@ -39,11 +39,6 @@
 
 ###
   
-
-
-
-
-###
 <h2 align="center">🐍 My Contributions 🐍</h2><h3 align="center">
 <picture>
   <source
