@@ -102,10 +102,7 @@
 
 
 
+<h3 align="center" style="color:Tomato" >Thanks for confirming! Have a nice day!</h3>
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=32&duration=4000&pause=1000&color=F79122&random=false&width=425&height=42&lines=Thank+you+for+coming;Have+a+nice+day" alt="Typing SVG" /></a></h3>
-
-
-
-<h5> Please keep refreshing for better animation experience </h5>
+<h5 > Please keep refreshing for better animation experience </h5>
 
