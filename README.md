@@ -17,11 +17,7 @@
 
 - 📫 How to reach me **rai638683@gmail.com**
 
-
-
-
-
-
+###
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
@@ -43,6 +39,8 @@
 </div>
 
 ###
+<hr/>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
