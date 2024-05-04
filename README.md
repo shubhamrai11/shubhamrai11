@@ -18,28 +18,31 @@
 - 📫 How to reach me **rai638683@gmail.com**
 
 ###
+<hr/>
 
 <h3 align="left">Connect with me:</h3>
+<br clear="both">
+
 <div align="center">
-  <a href="https://www.instagram.com/shubham_rai11?igsh=MWo2d2N5d3R1MW0zaA==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/456504629136719872" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="rai638683@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/shubham-rai11/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="36" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:rai638683@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="36" alt="gmail logo"  />
   </a>
   <a href="https://t.me/shubham638683" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="36" alt="telegram logo"  />
+  </a>
+  <a href="https://www.instagram.com/shubham_rai11/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="36" alt="instagram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/456504629136719872" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="36" alt="discord logo"  />
   </a>
 </div>
 
 ###
-<hr/>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -60,6 +63,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shubhamrai11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="159" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamrai11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=true&order=2" height="160" alt="languages graph"  />
 </div>
+
+<hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><h3 align="center">
 
@@ -89,6 +94,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="60" alt="nodejs logo"  />
 </div>
 
+<hr/>
 
 
 <h3 align="center" style="color:Tomato" >Thanks for coming! Have a nice day!</h3>
